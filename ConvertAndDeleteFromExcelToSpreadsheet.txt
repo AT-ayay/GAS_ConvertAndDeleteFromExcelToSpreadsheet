@@ -1,5 +1,5 @@
-const sourceFolderId = '1Dez5N7jMFIuKjcTabtrqJSRuQ9jhf7qT';
-const destFolderId = '12urp5PbTTTYMhhjxAA0QqmyZRts8Evn_';
+const sourceFolderId = '変換前のGoogleドライブのパス';
+const destFolderId = '変換後のGoogleドライブのパス';
 
 function myFunction() {
     // Excelファイルが入っているフォルダをidによって取得
